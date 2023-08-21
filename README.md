@@ -6,6 +6,11 @@ to be retrained with the same cadence, necessitating an end-to-end pipeline that
 
 In this project you will build such a pipeline.
 
+## Link to W&B and repository
+
+W&B: https://wandb.ai/dphedderich/nyc_airbnb
+GitHub repository: https://github.com/dhedderich/nyc-rental-price-predictor
+
 ## Table of contents
 
 - [Introduction](#build-an-ML-Pipeline-for-Short-Term-Rental-Prices-in-NYC)
