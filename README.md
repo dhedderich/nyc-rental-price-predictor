@@ -8,8 +8,8 @@ In this project you will build such a pipeline.
 
 ## Link to W&B and repository
 
-W&B: https://wandb.ai/dphedderich/nyc_airbnb
-GitHub repository: https://github.com/dhedderich/nyc-rental-price-predictor
+- W&B: https://wandb.ai/dphedderich/nyc_airbnb
+- GitHub repository: https://github.com/dhedderich/nyc-rental-price-predictor
 
 ## Table of contents
 
